@@ -1,0 +1,11 @@
+html,
+* {
+  padding: 0px;
+  margin: 0px;
+}
+nav {
+  padding: 16px 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
